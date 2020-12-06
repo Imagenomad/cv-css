@@ -80,21 +80,21 @@ p {
 }
 
 .code-img {
-  width: 25%;
+  width: 33%;
   float: left;
   margin-right: 30px;
 }
 
 .write-img {
-  width: 25%;
+  width: 33%;
   float: right;
   margin-left: 30px;
 }
 
 .skill-row {
   margin: 100px auto 100px auto;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   width: 50%;
   text-align: left;
 }
